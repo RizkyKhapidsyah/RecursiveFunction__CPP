@@ -6,8 +6,7 @@ Salah satu konsep paling dasar dalam ilmu komputer dan pemrograman adalah pengun
 Fungsi rekursif memiliki dua ciri khas:
 <br>
 1. Fungsi rekursif selalu memiliki kondisi yang menyatakan kapan fungsi tersebut berhenti. Kondisi ini harus dapat dibuktikan akan tercapai, karena jika tidak tercapai maka kita tidak dapat membuktikan bahwa fungsi akan berhenti, yang berarti algoritma kita tidak benar.
-2. Fungsi rekursif selalu memanggil dirinya sendiri sambil mengurangi atau memecahkan data masukan setiap panggilannya. Hal ini penting diingat, karena tujuan utama dari rekursif ialah memecahkan masalah dengan mengurangi masalah tersebut menjadi masalah-masalah kecil.
-<br>
+2. Fungsi rekursif selalu memanggil dirinya sendiri sambil mengurangi atau memecahkan data masukan setiap panggilannya. Hal ini penting diingat, karena tujuan utama dari rekursif ialah memecahkan masalah dengan mengurangi masalah tersebut menjadi masalah-masalah kecil.<br>
 Setiap fungsi rekursif yang ada harus memenuhi kedua persyaratan di atas untuk memastikan fungsi rekursif dapat berhenti dan memberikan hasil. Kebenaran dari nilai yang dihasilkan tentu saja memerlukan pembuktian dengan cara tersendiri. Tetapi sebelum masuk ke analisa dan pembuktian fungsi rekursif, mari kita lihat kegunaan dan contoh-contoh fungsi rekursif lainnya lagi.<br>
 
 # Analisis Algoritma Rekursif<br>
